@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Week10SQLite</string>
+    <string name="add_activity_title">Add Record</string>
+    <string name="no_record_not_found">No Record not found.</string>
+    <string name="add_record">Add Record</string>
+    <string name="modify_record">Modify Record</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="add">Add</string>
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_surname">Student Surname</string>
+</resources>
